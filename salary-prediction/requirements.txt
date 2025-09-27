@@ -1,0 +1,17 @@
+flask
+scikit-learn
+pandas
+numpy
+joblib
+uvicorn
+pip==23.0.1
+python-dotenv
+flask-cors
+xgboost
+
+
+# Optional for nicer EDA
+matplotlib
+seaborn
+jupyter
+streamlit
