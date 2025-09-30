@@ -112,5 +112,3 @@ Example:
 ```
 MAE: 10000.00, RMSE: 12000.00, R2: 0.9500
 ```
-*(Note: Actual values will depend on the dataset and model training.)*
-```
